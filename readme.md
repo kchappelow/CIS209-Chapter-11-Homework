@@ -7,6 +7,5 @@ Problem Description:
 
 # Tasks
 *	Write the program.
-*	Write a test program that tests all public methods in the class or classes you implemented.
 
-Submit the files using GitHub.
+Submit the program using GitHub.
